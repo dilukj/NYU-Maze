@@ -11,9 +11,9 @@ Challenges: I used the latest XR interaction toolkit where the development exper
 This is my first VR development experience and I'm glad I could develop a good VR experience after following tutorials. I was able to bring the hand avatars to the gameplay after going through the following week materials. 
 
 Next steps:
-1- Add more challenges/interactions to the player with a scoring mechanism for game mechanics.
-2- Lighting of the office environment that resembles a realworld office environment.
-3- Add more props to the environment.
-4- Add a corouting to animate the door opening behavior once the player inserts the key.
-5- Teleport reticle looks somewhat closer to Google Tilt Brush
+- Add more challenges/interactions to the player with a scoring mechanism for game mechanics.
+- Lighting of the office environment that resembles a realworld office environment.
+- Add more props to the environment.
+- Add a corouting to animate the door opening behavior once the player inserts the key.
+- Teleport reticle looks somewhat closer to Google Tilt Brush
 
